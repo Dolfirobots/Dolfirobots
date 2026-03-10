@@ -1,0 +1,34 @@
+name: Update Image Cache
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update cache buster
+        run: |
+          DATE=$(date +'%Y%m%d')
+          echo "Updating image cache to $DATE"
+
+          FILE="README.md"
+          if [ -f "$FILE" ]; then
+            sed -i -E "s/(\&v=)[0-9]+/\1$DATE/g" "$FILE"
+          fi
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "action(readme): update image cache"
+          git push
