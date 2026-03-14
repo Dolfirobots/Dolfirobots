@@ -57,8 +57,8 @@ Feel free to text me, it's always great to meet new people!
 <a href="#!"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu Linux" /></a>
 <a href="#!"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a>
 <a href="#!"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /></a>
-
 <a href="#!"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
+
 <a href="#!"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
 
 ---
