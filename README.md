@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <strong>Dolfirobots</strong>! <a href="#!"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" /></a></h1>
 
-I'm a very young developer who loves solving problems and learning new things.  
+I'm a very young German developer who loves solving problems and learning new things.  
 I enjoy writing software, but currently, I'm working on a big hardware project to discover how things work.  
 I really like it when the user interface **and** the code are clean and run smoothly.  
 I strongly believe in understanding the code I write. Rather than blindly copying AI-generated code, I think it's much cooler to write code yourself **and** to be able to present it with your own knowledge!
