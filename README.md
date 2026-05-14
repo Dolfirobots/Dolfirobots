@@ -65,8 +65,8 @@ Feel free to text me, it's always great to meet new people!
 
 <h2 align="center">My GitHub Stats</h2>
 <div align="center">
-  <a href="#!"><img src="https://github-readme-stats-sable-zeta-32.vercel.app/api?username=Dolfirobots&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=32cd32&icon_color=ff0000&v=20260511" alt="General stats" /></a>
-  <a href="#!"><img src="https://github-readme-stats-sable-zeta-32.vercel.app/api/top-langs/?username=Dolfirobots&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=32cd32&v=20260511" alt="Most used languages" /></a>
+  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api?username=Dolfirobots&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=32cd32&icon_color=ff0000&v=20260511" alt="General stats" /></a>
+  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api/top-langs/?username=Dolfirobots&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=32cd32&v=20260511" alt="Most used languages" /></a>
   <br>
   <a href="#!"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolfirobots&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=00ee00&area_color=00ee00&point=32cd32&color=ffffff&v=20260511" width="750" alt="Commit graph stats" /></a>
 </div>
