@@ -17,10 +17,10 @@ Feel free to text me, it's always great to meet new people!
     <img src="https://img.shields.io/youtube/channel/subscribers/UCZhrQbMrU6jQbr2d1-5_daA?style=for-the-badge&logo=youtube&logoColor=red&label=youtube&color=008b00&v20251216">
   </a>
   <a href="https://discord.gg/nxGMG9PH7n">
-    <img src="https://img.shields.io/discord/1436724374622441556?style=for-the-badge&logo=discord&color=008b00&label=discord&v=20260518"/>
+    <img src="https://img.shields.io/discord/1436724374622441556?style=for-the-badge&logo=discord&color=008b00&label=discord&v=20260525"/>
   </a>
   <a href="https://twitch.tv/Dolfirobots">
-    <img src="https://img.shields.io/twitch/status/Dolfirobots?style=for-the-badge&logo=twitch&color=008b00&v=20260518"/>
+    <img src="https://img.shields.io/twitch/status/Dolfirobots?style=for-the-badge&logo=twitch&color=008b00&v=20260525"/>
   </a>
 </div>
 
@@ -65,8 +65,8 @@ Feel free to text me, it's always great to meet new people!
 
 <h2 align="center">My GitHub Stats</h2>
 <div align="center">
-  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api?username=Dolfirobots&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=32cd32&icon_color=ff0000&v=20260518" alt="General stats" /></a>
-  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api/top-langs/?username=Dolfirobots&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=32cd32&v=20260518" alt="Most used languages" /></a>
+  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api?username=Dolfirobots&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=32cd32&icon_color=ff0000&v=20260525" alt="General stats" /></a>
+  <a href="#!"><img src="https://github-readme-stats-delta-two-21.vercel.app/api/top-langs/?username=Dolfirobots&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=32cd32&v=20260525" alt="Most used languages" /></a>
   <br>
-  <a href="#!"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolfirobots&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=00ee00&area_color=00ee00&point=32cd32&color=ffffff&v=20260518" width="750" alt="Commit graph stats" /></a>
+  <a href="#!"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolfirobots&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=00ee00&area_color=00ee00&point=32cd32&color=ffffff&v=20260525" width="750" alt="Commit graph stats" /></a>
 </div>
